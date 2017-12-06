@@ -1,0 +1,14 @@
+Script started on Sun Oct 15 18:24:37 2017
+[?1034hbash-3.2$ c++ -c String.cpp
+bash-3.2$ c++ 0c [K[K[K-c String_test.cpp
+bash-3.2$ c++ String.o String_test.o
+bash-3.2$ ./a.out
+SUCCESS
+bash-3.2$ c++ -c String.cpp
+bash-3.2$ c++ 0c [K[K[K-c test.cpp
+bash-3.2$ c++ String.o test.o
+bash-3.2$ ./a.out
+abcd > abe
+bash-3.2$ exit
+
+Script done on Sun Oct 15 18:25:47 2017
