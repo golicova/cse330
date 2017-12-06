@@ -17,8 +17,5 @@ int main()
     
     v=w;
     
-    cout << v[0] << endl;
-    
-    
-    
+    cout << v[0] << endl; 
 }
